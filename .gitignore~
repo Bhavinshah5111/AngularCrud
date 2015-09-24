@@ -1,0 +1,8 @@
+.DS_Store
+nbproject
+assets/files
+assets/images
+*.zip
+*.rar
+*.tar
+*.tar.gz
